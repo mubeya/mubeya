@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**mubeya/mubeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,10 +12,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Erva</h1>
 <h3 align="center">A passionate developer from Istanbul</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeya&label=Profile%20views&color=0e75b6&style=flat" alt="mubeya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeya" alt="mubeya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
